@@ -1,12 +1,12 @@
 import requests
 from twilio.rest import Client
 
-API_KEY = "a32a6f89dc653e4fbf0bf5acfce21007"
+API_KEY = MY_API_KEY
 MY_LAT = -8.392862
 MY_LONG = -74.582619
 PHONE_NUMBER = +14159430923
-account_sid = "ACa2f8236b50c779872b903a80a18b5dd1"
-auth_token = "b441abe4e49d0b75f69917ff4757f84f"
+account_sid = ACC_SID
+auth_token = AUTH_TOKEN
 
 parameters = {
     "lat": MY_LAT,

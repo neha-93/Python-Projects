@@ -1,6 +1,6 @@
 # Python-Projects
 A collection of small python projects
 
--to run locally download the project
--install the dependencies
+-to run locally download the project<br>
+-install the dependencies<br>
 -compile and run in any python ide

@@ -5,7 +5,7 @@ import smtplib
 
 PRODUCT_URL = "https://www.flipkart.com/vaseline-intensive-care-deep-moisture-body-lotion/p/itm74b8bcc8e4bc8?pid=MSCFKEQ5UYVGXGKS&lid=LSTMSCFKEQ5UYVGXGKS6RMIMX&marketplace=FLIPKART"
 EMAIL = "nehaisarockstar93@gmail.com"
-PASSWORD = "t5UXq!VP*ORf8Z4"
+PASSWORD = YOUR_EMAIL_PASSWORD
 
 
 headers = {
